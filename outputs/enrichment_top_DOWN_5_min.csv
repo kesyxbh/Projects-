@@ -1,0 +1,11 @@
+time,direction,library,Term,Adjusted P-value,Overlap,Genes_short,rank
+5 min,DOWN,GO_Biological_Process_2021,organelle fission (GO:0048285),0.1835154651528125,3/26,ACOT8;MTFR2;GDAP1,1.0
+5 min,DOWN,GO_Biological_Process_2021,peptidyl-lysine deacetylation (GO:0034983),0.1835154651528125,2/8,HDAC6;SIRT2,2.0
+5 min,DOWN,GO_Biological_Process_2021,histone H2A-K119 monoubiquitination (GO:0036353),0.1835154651528125,2/8,PCGF6;BMI1,3.0
+5 min,DOWN,GO_Biological_Process_2021,negative regulation of G0 to G1 transition (GO:0070317),0.1835154651528125,3/38,PCGF6;CHEK1;BMI1,4.0
+5 min,DOWN,GO_Biological_Process_2021,regulation of G0 to G1 transition (GO:0070316),0.1835154651528125,3/41,PCGF6;CHEK1;BMI1,5.0
+5 min,DOWN,KEGG_2021_Human,SNARE interactions in vesicular transport,0.6283888828220439,2/33,SNAP29;BET1,6.0
+5 min,DOWN,KEGG_2021_Human,Nicotinate and nicotinamide metabolism,0.6283888828220439,2/35,QPRT;SIRT2,7.0
+5 min,DOWN,KEGG_2021_Human,Human immunodeficiency virus 1 infection,0.6283888828220439,4/212,TRAF6;LIMK2;CHEK1;RPS6KB2,8.0
+5 min,DOWN,KEGG_2021_Human,Lysosome,0.6283888828220439,3/128,AP4M1;GAA;CTSW,9.0
+5 min,DOWN,KEGG_2021_Human,Autophagy,0.6283888828220439,3/137,TRAF6;RPS6KB2;SNAP29,10.0

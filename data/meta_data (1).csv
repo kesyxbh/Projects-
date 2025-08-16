@@ -1,0 +1,113 @@
+sample_id,condition,cells,batch,time,pdl1
+230801kw_MKreileder_ProtA1_S3_A1_1_15847 MaxLFQ Intensity,unstimulated_PD_1 ,PD_1 ,1,0 min,unstimulated
+230801kw_MKreileder_ProtA1_S3_A2_1_15848 MaxLFQ Intensity,unstimulated_PD_1 ,PD_1 ,1,0 min,unstimulated
+230801kw_MKreileder_ProtB1_S3_B3_1_15861 MaxLFQ Intensity,unstimulated_PD_1 ,PD_1 ,2,0 min,unstimulated
+230801kw_MKreileder_ProtB1_S3_B4_1_15862 MaxLFQ Intensity,unstimulated_PD_1 ,PD_1 ,2,0 min,unstimulated
+230801kw_MKreileder_ProtC1_S3_A5_1_15888 MaxLFQ Intensity,unstimulated_PD_1 ,PD_1 ,3,0 min,unstimulated
+230801kw_MKreileder_ProtC1_S3_A6_1_15889 MaxLFQ Intensity,unstimulated_PD_1 ,PD_1 ,3,0 min,unstimulated
+230801kw_MKreileder_ProtD1_S3_B7_1_15902 MaxLFQ Intensity,unstimulated_PD_1 ,PD_1 ,4,0 min,unstimulated
+230801kw_MKreileder_ProtD1_S3_B8_1_15903 MaxLFQ Intensity,unstimulated_PD_1 ,PD_1 ,4,0 min,unstimulated
+230801kw_MKreileder_ProtA2_S3_A10_1_15917 MaxLFQ Intensity,TCS Ctrl 5 min_PD_1 ,PD_1 ,1,5 min,TCS Ctrl
+230801kw_MKreileder_ProtA2_S3_A9_1_15916 MaxLFQ Intensity,TCS Ctrl 5 min_PD_1 ,PD_1 ,1,5 min,TCS Ctrl
+230801kw_MKreileder_ProtB2_S3_B11_1_15930 MaxLFQ Intensity,TCS Ctrl 5 min_PD_1 ,PD_1 ,2,5 min,TCS Ctrl
+230801kw_MKreileder_ProtB2_S3_B12_1_15931 MaxLFQ Intensity,TCS Ctrl 5 min_PD_1 ,PD_1 ,2,5 min,TCS Ctrl
+230801kw_MKreileder_ProtC2_S3_B1_1_15944 MaxLFQ Intensity,TCS Ctrl 5 min_PD_1 ,PD_1 ,3,5 min,TCS Ctrl
+230801kw_MKreileder_ProtC2_S3_B2_1_15945 MaxLFQ Intensity,TCS Ctrl 5 min_PD_1 ,PD_1 ,3,5 min,TCS Ctrl
+230801kw_MKreileder_ProtD2_S3_C3_1_15958 MaxLFQ Intensity,TCS Ctrl 5 min_PD_1 ,PD_1 ,4,5 min,TCS Ctrl
+230801kw_MKreileder_ProtD2_S3_C4_1_15959 MaxLFQ Intensity,TCS Ctrl 5 min_PD_1 ,PD_1 ,4,5 min,TCS Ctrl
+230801kw_MKreileder_ProtA3_S3_A3_1_15849 MaxLFQ Intensity,TCS Ctrl 20 min_PD_1 ,PD_1 ,1,20 min,TCS Ctrl
+230801kw_MKreileder_ProtA3_S3_A4_1_15850 MaxLFQ Intensity,TCS Ctrl 20 min_PD_1 ,PD_1 ,1,20 min,TCS Ctrl
+230801kw_MKreileder_ProtB3_S3_B5_1_15863 MaxLFQ Intensity,TCS Ctrl 20 min_PD_1 ,PD_1 ,2,20 min,TCS Ctrl
+230801kw_MKreileder_ProtB3_S3_B6_1_15864 MaxLFQ Intensity,TCS Ctrl 20 min_PD_1 ,PD_1 ,2,20 min,TCS Ctrl
+230801kw_MKreileder_ProtC3_S3_A7_1_15890 MaxLFQ Intensity,TCS Ctrl 20 min_PD_1 ,PD_1 ,3,20 min,TCS Ctrl
+230801kw_MKreileder_ProtC3_S3_A8_1_15891 MaxLFQ Intensity,TCS Ctrl 20 min_PD_1 ,PD_1 ,3,20 min,TCS Ctrl
+230801kw_MKreileder_ProtD3_S3_B10_1_15905 MaxLFQ Intensity,TCS Ctrl 20 min_PD_1 ,PD_1 ,4,20 min,TCS Ctrl
+230801kw_MKreileder_ProtD3_S3_B9_1_15904 MaxLFQ Intensity,TCS Ctrl 20 min_PD_1 ,PD_1 ,4,20 min,TCS Ctrl
+230801kw_MKreileder_ProtA4_S3_A11_1_15918 MaxLFQ Intensity,TCS Ctrl 4h_PD_1 ,PD_1 ,1,4h,TCS Ctrl
+230801kw_MKreileder_ProtA4_S3_A12_1_15919 MaxLFQ Intensity,TCS Ctrl 4h_PD_1 ,PD_1 ,1,4h,TCS Ctrl
+230801kw_MKreileder_ProtB4_S3_A1_1_15932 MaxLFQ Intensity,TCS Ctrl 4h_PD_1 ,PD_1 ,2,4h,TCS Ctrl
+230801kw_MKreileder_ProtB4_S3_A2_1_15933 MaxLFQ Intensity,TCS Ctrl 4h_PD_1 ,PD_1 ,2,4h,TCS Ctrl
+230801kw_MKreileder_ProtC4_S3_B3_1_15946 MaxLFQ Intensity,TCS Ctrl 4h_PD_1 ,PD_1 ,3,4h,TCS Ctrl
+230801kw_MKreileder_ProtC4_S3_B4_1_15947 MaxLFQ Intensity,TCS Ctrl 4h_PD_1 ,PD_1 ,3,4h,TCS Ctrl
+230801kw_MKreileder_ProtD4_S3_C5_1_15960 MaxLFQ Intensity,TCS Ctrl 4h_PD_1 ,PD_1 ,4,4h,TCS Ctrl
+230801kw_MKreileder_ProtD4_S3_C6_1_15961 MaxLFQ Intensity,TCS Ctrl 4h_PD_1 ,PD_1 ,4,4h,TCS Ctrl
+230801kw_MKreileder_ProtA5_S3_A5_1_15851 MaxLFQ Intensity,TCS PDL1 5 min_PD_1 ,PD_1 ,1,5 min,TCS PDL1
+230801kw_MKreileder_ProtA5_S3_A6_1_15852 MaxLFQ Intensity,TCS PDL1 5 min_PD_1 ,PD_1 ,1,5 min,TCS PDL1
+230801kw_MKreileder_ProtB5_S3_B7_1_15865 MaxLFQ Intensity,TCS PDL1 5 min_PD_1 ,PD_1 ,2,5 min,TCS PDL1
+230801kw_MKreileder_ProtB5_S3_B8_1_15866 MaxLFQ Intensity,TCS PDL1 5 min_PD_1 ,PD_1 ,2,5 min,TCS PDL1
+230801kw_MKreileder_ProtC5_S3_A10_1_15893 MaxLFQ Intensity,TCS PDL1 5 min_PD_1 ,PD_1 ,3,5 min,TCS PDL1
+230801kw_MKreileder_ProtC5_S3_A9_1_15892 MaxLFQ Intensity,TCS PDL1 5 min_PD_1 ,PD_1 ,3,5 min,TCS PDL1
+230801kw_MKreileder_ProtD5_S3_B11_1_15906 MaxLFQ Intensity,TCS PDL1 5 min_PD_1 ,PD_1 ,4,5 min,TCS PDL1
+230801kw_MKreileder_ProtD5_S3_B12_1_15907 MaxLFQ Intensity,TCS PDL1 5 min_PD_1 ,PD_1 ,4,5 min,TCS PDL1
+230801kw_MKreileder_ProtA6_S3_B1_1_15920 MaxLFQ Intensity,TCS PDL1 20 min_PD_1 ,PD_1 ,1,20 min,TCS PDL1
+230801kw_MKreileder_ProtA6_S3_B2_1_15921 MaxLFQ Intensity,TCS PDL1 20 min_PD_1 ,PD_1 ,1,20 min,TCS PDL1
+230801kw_MKreileder_ProtB6_S3_A3_1_15934 MaxLFQ Intensity,TCS PDL1 20 min_PD_1 ,PD_1 ,2,20 min,TCS PDL1
+230801kw_MKreileder_ProtB6_S3_A4_1_15935 MaxLFQ Intensity,TCS PDL1 20 min_PD_1 ,PD_1 ,2,20 min,TCS PDL1
+230801kw_MKreileder_ProtC6_S3_B5_1_15948 MaxLFQ Intensity,TCS PDL1 20 min_PD_1 ,PD_1 ,3,20 min,TCS PDL1
+230801kw_MKreileder_ProtC6_S3_B6_1_15949 MaxLFQ Intensity,TCS PDL1 20 min_PD_1 ,PD_1 ,3,20 min,TCS PDL1
+230801kw_MKreileder_ProtD6_S3_C7_1_15962 MaxLFQ Intensity,TCS PDL1 20 min_PD_1 ,PD_1 ,4,20 min,TCS PDL1
+230801kw_MKreileder_ProtD6_S3_C8_1_15963 MaxLFQ Intensity,TCS PDL1 20 min_PD_1 ,PD_1 ,4,20 min,TCS PDL1
+230801kw_MKreileder_ProtA7_S3_A7_1_15853 MaxLFQ Intensity,TCS PDL1 4h_PD_1 ,PD_1 ,1,4h,TCS PDL1
+230801kw_MKreileder_ProtA7_S3_A8_1_15854 MaxLFQ Intensity,TCS PDL1 4h_PD_1 ,PD_1 ,1,4h,TCS PDL1
+230801kw_MKreileder_ProtB7_S3_B10_1_15868 MaxLFQ Intensity,TCS PDL1 4h_PD_1 ,PD_1 ,2,4h,TCS PDL1
+230801kw_MKreileder_ProtB7_S3_B9_1_15867 MaxLFQ Intensity,TCS PDL1 4h_PD_1 ,PD_1 ,2,4h,TCS PDL1
+230801kw_MKreileder_ProtC7_S3_A11_1_15894 MaxLFQ Intensity,TCS PDL1 4h_PD_1 ,PD_1 ,3,4h,TCS PDL1
+230801kw_MKreileder_ProtC7_S3_A12_1_15895 MaxLFQ Intensity,TCS PDL1 4h_PD_1 ,PD_1 ,3,4h,TCS PDL1
+230801kw_MKreileder_ProtD7_S3_A1_1_15908 MaxLFQ Intensity,TCS PDL1 4h_PD_1 ,PD_1 ,4,4h,TCS PDL1
+230801kw_MKreileder_ProtD7_S3_A2_1_15909 MaxLFQ Intensity,TCS PDL1 4h_PD_1 ,PD_1 ,4,4h,TCS PDL1
+230801kw_MKreileder_ProtA8_S3_B3_1_15922 MaxLFQ Intensity,unstimulated_Control,Control,1,0 min,unstimulated
+230801kw_MKreileder_ProtA8_S3_B4_1_15923 MaxLFQ Intensity,unstimulated_Control,Control,1,0 min,unstimulated
+230801kw_MKreileder_ProtB8_S3_A5_1_15936 MaxLFQ Intensity,unstimulated_Control,Control,2,0 min,unstimulated
+230801kw_MKreileder_ProtB8_S3_A6_1_15937 MaxLFQ Intensity,unstimulated_Control,Control,2,0 min,unstimulated
+230801kw_MKreileder_ProtC8_S3_B7_1_15950 MaxLFQ Intensity,unstimulated_Control,Control,3,0 min,unstimulated
+230801kw_MKreileder_ProtC8_S3_B8_1_15951 MaxLFQ Intensity,unstimulated_Control,Control,3,0 min,unstimulated
+230801kw_MKreileder_ProtD8_S3_C10_1_15965 MaxLFQ Intensity,unstimulated_Control,Control,4,0 min,unstimulated
+230801kw_MKreileder_ProtD8_S3_C9_1_15964 MaxLFQ Intensity,unstimulated_Control,Control,4,0 min,unstimulated
+230801kw_MKreileder_ProtA9_S3_A10_1_15856 MaxLFQ Intensity,TCS Ctrl 5 min_Control,Control,1,5 min,TCS Ctrl
+230801kw_MKreileder_ProtA9_S3_A9_1_15855 MaxLFQ Intensity,TCS Ctrl 5 min_Control,Control,1,5 min,TCS Ctrl
+230801kw_MKreileder_ProtB9_S3_B11_1_15869 MaxLFQ Intensity,TCS Ctrl 5 min_Control,Control,2,5 min,TCS Ctrl
+230801kw_MKreileder_ProtB9_S3_B12_1_15870 MaxLFQ Intensity,TCS Ctrl 5 min_Control,Control,2,5 min,TCS Ctrl
+230801kw_MKreileder_ProtC9_S3_B1_1_15896 MaxLFQ Intensity,TCS Ctrl 5 min_Control,Control,3,5 min,TCS Ctrl
+230801kw_MKreileder_ProtC9_S3_B2_1_15897 MaxLFQ Intensity,TCS Ctrl 5 min_Control,Control,3,5 min,TCS Ctrl
+230801kw_MKreileder_ProtD9_S3_A3_1_15910 MaxLFQ Intensity,TCS Ctrl 5 min_Control,Control,4,5 min,TCS Ctrl
+230801kw_MKreileder_ProtD9_S3_A4_1_15911 MaxLFQ Intensity,TCS Ctrl 5 min_Control,Control,4,5 min,TCS Ctrl
+230801kw_MKreileder_ProtA10_S3_B5_1_15924 MaxLFQ Intensity,TCS Ctrl 20 min_Control,Control,1,20 min,TCS Ctrl
+230801kw_MKreileder_ProtA10_S3_B6_1_15925 MaxLFQ Intensity,TCS Ctrl 20 min_Control,Control,1,20 min,TCS Ctrl
+230801kw_MKreileder_ProtB10_S3_A7_1_15938 MaxLFQ Intensity,TCS Ctrl 20 min_Control,Control,2,20 min,TCS Ctrl
+230801kw_MKreileder_ProtB10_S3_A8_1_15939 MaxLFQ Intensity,TCS Ctrl 20 min_Control,Control,2,20 min,TCS Ctrl
+230801kw_MKreileder_ProtC10_S3_B10_1_15953 MaxLFQ Intensity,TCS Ctrl 20 min_Control,Control,3,20 min,TCS Ctrl
+230801kw_MKreileder_ProtC10_S3_B9_1_15952 MaxLFQ Intensity,TCS Ctrl 20 min_Control,Control,3,20 min,TCS Ctrl
+230801kw_MKreileder_ProtD10_S3_C11_1_15966 MaxLFQ Intensity,TCS Ctrl 20 min_Control,Control,4,20 min,TCS Ctrl
+230801kw_MKreileder_ProtD10_S3_C12_1_15967 MaxLFQ Intensity,TCS Ctrl 20 min_Control,Control,4,20 min,TCS Ctrl
+230801kw_MKreileder_ProtA11_S3_A11_1_15857 MaxLFQ Intensity,TCS Ctrl 4h_Control,Control,1,4h,TCS Ctrl
+230801kw_MKreileder_ProtA11_S3_A12_1_15858 MaxLFQ Intensity,TCS Ctrl 4h_Control,Control,1,4h,TCS Ctrl
+230801kw_MKreileder_ProtB11_S3_A1_1_15884 MaxLFQ Intensity,TCS Ctrl 4h_Control,Control,2,4h,TCS Ctrl
+230801kw_MKreileder_ProtB11_S3_A2_1_15885 MaxLFQ Intensity,TCS Ctrl 4h_Control,Control,2,4h,TCS Ctrl
+230801kw_MKreileder_ProtC11_S3_B3_1_15898 MaxLFQ Intensity,TCS Ctrl 4h_Control,Control,3,4h,TCS Ctrl
+230801kw_MKreileder_ProtC11_S3_B4_1_15899 MaxLFQ Intensity,TCS Ctrl 4h_Control,Control,3,4h,TCS Ctrl
+230801kw_MKreileder_ProtD11_S3_A5_1_15912 MaxLFQ Intensity,TCS Ctrl 4h_Control,Control,4,4h,TCS Ctrl
+230801kw_MKreileder_ProtD11_S3_A6_1_15913 MaxLFQ Intensity,TCS Ctrl 4h_Control,Control,4,4h,TCS Ctrl
+230801kw_MKreileder_ProtA12_S3_B7_1_15926 MaxLFQ Intensity,TCS PDL1 5 min_Control,Control,1,5 min,TCS PDL1
+230801kw_MKreileder_ProtA12_S3_B8_1_15927 MaxLFQ Intensity,TCS PDL1 5 min_Control,Control,1,5 min,TCS PDL1
+230801kw_MKreileder_ProtB12_S3_A10_1_15941 MaxLFQ Intensity,TCS PDL1 5 min_Control,Control,2,5 min,TCS PDL1
+230801kw_MKreileder_ProtB12_S3_A9_1_15940 MaxLFQ Intensity,TCS PDL1 5 min_Control,Control,2,5 min,TCS PDL1
+230801kw_MKreileder_ProtC12_S3_B11_1_15954 MaxLFQ Intensity,TCS PDL1 5 min_Control,Control,3,5 min,TCS PDL1
+230801kw_MKreileder_ProtC12_S3_B12_1_15955 MaxLFQ Intensity,TCS PDL1 5 min_Control,Control,3,5 min,TCS PDL1
+230801kw_MKreileder_ProtD12_S3_D1_1_15968 MaxLFQ Intensity,TCS PDL1 5 min_Control,Control,4,5 min,TCS PDL1
+230801kw_MKreileder_ProtD12_S3_D2_1_15969 MaxLFQ Intensity,TCS PDL1 5 min_Control,Control,4,5 min,TCS PDL1
+230801kw_MKreileder_ProtA13_S3_B1_1_15859 MaxLFQ Intensity,TCS PDL1 20 min_Control,Control,1,20 min,TCS PDL1
+230801kw_MKreileder_ProtA13_S3_B2_1_15860 MaxLFQ Intensity,TCS PDL1 20 min_Control,Control,1,20 min,TCS PDL1
+230801kw_MKreileder_ProtB13_S3_A3_1_15886 MaxLFQ Intensity,TCS PDL1 20 min_Control,Control,2,20 min,TCS PDL1
+230801kw_MKreileder_ProtB13_S3_A4_1_15887 MaxLFQ Intensity,TCS PDL1 20 min_Control,Control,2,20 min,TCS PDL1
+230801kw_MKreileder_ProtC13_S3_B5_1_15900 MaxLFQ Intensity,TCS PDL1 20 min_Control,Control,3,20 min,TCS PDL1
+230801kw_MKreileder_ProtC13_S3_B6_1_15901 MaxLFQ Intensity,TCS PDL1 20 min_Control,Control,3,20 min,TCS PDL1
+230801kw_MKreileder_ProtD13_S3_A7_1_15914 MaxLFQ Intensity,TCS PDL1 20 min_Control,Control,4,20 min,TCS PDL1
+230801kw_MKreileder_ProtD13_S3_A8_1_15915 MaxLFQ Intensity,TCS PDL1 20 min_Control,Control,4,20 min,TCS PDL1
+230801kw_MKreileder_ProtA14_S3_B10_1_15929 MaxLFQ Intensity,TCS PDL1 4h_Control,Control,1,4h,TCS PDL1
+230801kw_MKreileder_ProtA14_S3_B9_1_15928 MaxLFQ Intensity,TCS PDL1 4h_Control,Control,1,4h,TCS PDL1
+230801kw_MKreileder_ProtB14_S3_A11_1_15942 MaxLFQ Intensity,TCS PDL1 4h_Control,Control,2,4h,TCS PDL1
+230801kw_MKreileder_ProtB14_S3_A12_1_15943 MaxLFQ Intensity,TCS PDL1 4h_Control,Control,2,4h,TCS PDL1
+230801kw_MKreileder_ProtC14_S3_C1_1_15956 MaxLFQ Intensity,TCS PDL1 4h_Control,Control,3,4h,TCS PDL1
+230801kw_MKreileder_ProtC14_S3_C2_1_15957 MaxLFQ Intensity,TCS PDL1 4h_Control,Control,3,4h,TCS PDL1
+230801kw_MKreileder_ProtD14_S3_D3_1_15970 MaxLFQ Intensity,TCS PDL1 4h_Control,Control,4,4h,TCS PDL1
+230801kw_MKreileder_ProtD14_S3_D4_1_15971 MaxLFQ Intensity,TCS PDL1 4h_Control,Control,4,4h,TCS PDL1

@@ -1,0 +1,11 @@
+time,direction,library,Term,Adjusted P-value,Overlap,Genes_short,rank
+5 min,UP,GO_Biological_Process_2021,midbody abscission (GO:0061952),0.038255964156919,3/17,CHMP1A;CHMP2A;MITD1,1.0
+5 min,UP,GO_Biological_Process_2021,protein transport (GO:0015031),0.038255964156919,9/369,TMED9;HERC2;STX8;CHMP1A;SNX15;CHMP2A,2.0
+5 min,UP,GO_Biological_Process_2021,mitotic cytokinetic process (GO:1902410),0.038255964156919,3/20,CHMP1A;CHMP2A;MITD1,3.0
+5 min,UP,GO_Biological_Process_2021,positive regulation of protein autophosphorylation (GO:0031954),0.0432823943983372,3/23,RAP2C;RASSF2;NBN,4.0
+5 min,UP,GO_Biological_Process_2021,nuclear retention of pre-mRNA at the site of transcription (GO:0071033),0.0432823943983372,2/5,PRPF18;EXOSC3,5.0
+5 min,UP,KEGG_2021_Human,SNARE interactions in vesicular transport,0.0700223639855235,3/33,STX8;STX4;VAMP2,6.0
+5 min,UP,KEGG_2021_Human,Hematopoietic cell lineage,0.6627682888275269,1/99,CD5,7.0
+5 min,UP,KEGG_2021_Human,Inflammatory mediator regulation of TRP channels,0.6627682888275269,1/98,PRKCQ,8.0
+5 min,UP,KEGG_2021_Human,mRNA surveillance pathway,0.6627682888275269,1/98,PPP2CA,9.0
+5 min,UP,KEGG_2021_Human,Fc gamma R-mediated phagocytosis,0.6627682888275269,1/97,CRK,10.0

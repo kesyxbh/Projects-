@@ -1,0 +1,51 @@
+Protein ID,Entry Name,Gene,Protein,Protein name,Protein Length,Organism,Protein Existence,Protein Probability,Top Peptide Probability,PD1,CTRL,log2FC_PD1_vs_CTRL,time
+Q15116,PDCD1_HUMAN,PDCD1,sp|Q15116|PDCD1_HUMAN,Programmed cell death protein 1,288,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.98072715665492,0.0,16.98072715665492,4 h
+Q99633,PRP18_HUMAN,PRPF18,sp|Q99633|PRP18_HUMAN,Pre-mRNA-splicing factor 18,342,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.135855905149132,0.0,16.135855905149132,4 h
+Q15056,IF4H_HUMAN,EIF4H,sp|Q15056|IF4H_HUMAN,Eukaryotic translation initiation factor 4H,248,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.869521652136967,0.0,15.869521652136967,4 h
+O43903,GAS2_HUMAN,GAS2,sp|O43903|GAS2_HUMAN,Growth arrest-specific protein 2,313,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.480212067203045,0.0,15.480212067203045,4 h
+Q8N300,SVBP_HUMAN,SVBP,sp|Q8N300|SVBP_HUMAN,Small vasohibin-binding protein,66,Homo sapiens,1:Experimental evidence at protein level,0.9998,0.999,15.240824886465049,0.0,15.240824886465049,4 h
+Q00266,METK1_HUMAN,MAT1A,sp|Q00266|METK1_HUMAN,S-adenosylmethionine synthase isoform type-1,395,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.136832277887375,0.0,15.136832277887375,4 h
+Q9BVI0,PHF20_HUMAN,PHF20,sp|Q9BVI0|PHF20_HUMAN,PHD finger protein 20,1012,Homo sapiens,1:Experimental evidence at protein level,0.9958,0.9983,15.036663879491906,0.0,15.036663879491906,4 h
+P30281,CCND3_HUMAN,CCND3,sp|P30281|CCND3_HUMAN,G1/S-specific cyclin-D3,292,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.997021361981847,0.0,14.997021361981847,4 h
+P40818,UBP8_HUMAN,USP8,sp|P40818|UBP8_HUMAN,Ubiquitin carboxyl-terminal hydrolase 8,1118,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.790268175516015,0.0,14.790268175516015,4 h
+Q14997,PSME4_HUMAN,PSME4,sp|Q14997|PSME4_HUMAN,Proteasome activator complex subunit 4,1843,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.629619753197503,0.0,14.629619753197503,4 h
+O15121,DEGS1_HUMAN,DEGS1,sp|O15121|DEGS1_HUMAN,Sphingolipid delta(4)-desaturase DES1,323,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.532574988951115,0.0,14.532574988951115,4 h
+Q8N2Z9,CENPS_HUMAN,CENPS,sp|Q8N2Z9|CENPS_HUMAN,Centromere protein S,138,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.423509904577308,0.0,14.423509904577308,4 h
+P23610,HAP40_HUMAN,F8A3,sp|P23610|HAP40_HUMAN,40-kDa huntingtin-associated protein,371,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.399445533730594,0.0,14.399445533730594,4 h
+Q9P2M7,CING_HUMAN,CGN,sp|Q9P2M7|CING_HUMAN,Cingulin,1203,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.386491667309162,0.0,14.386491667309162,4 h
+Q8N0X7,SPART_HUMAN,SPART,sp|Q8N0X7|SPART_HUMAN,Spartin,666,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.28755508941487,0.0,14.28755508941487,4 h
+O00512,BCL9_HUMAN,BCL9,sp|O00512|BCL9_HUMAN,B-cell CLL/lymphoma 9 protein,1426,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.238983999930252,0.0,14.238983999930252,4 h
+Q8WWI1,LMO7_HUMAN,LMO7,sp|Q8WWI1|LMO7_HUMAN,LIM domain only protein 7,1683,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.106601642386963,0.0,14.106601642386963,4 h
+Q9Y657,SPIN1_HUMAN,SPIN1,sp|Q9Y657|SPIN1_HUMAN,Spindlin-1,262,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,13.903257247518306,0.0,13.903257247518306,4 h
+Q9Y3D0,CIA2B_HUMAN,CIAO2B,sp|Q9Y3D0|CIA2B_HUMAN,Cytosolic iron-sulfur assembly component 2B,163,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,12.374910483988556,0.0,12.374910483988556,4 h
+Q09666,AHNK_HUMAN,AHNAK,sp|Q09666|AHNK_HUMAN,Neuroblast differentiation-associated protein AHNAK,5890,Homo sapiens,1:Experimental evidence at protein level,1.0,0.9988,17.514630296839435,7.852506206817432,9.662124090022004,4 h
+P80404,GABT_HUMAN,ABAT,sp|P80404|GABT_HUMAN,"4-aminobutyrate aminotransferase, mitochondrial",500,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,17.92270982853694,8.651095121416349,9.271614707120593,4 h
+P54652,HSP72_HUMAN,HSPA2,sp|P54652|HSP72_HUMAN,Heat shock-related 70 kDa protein 2,639,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,17.606884386796434,8.366203967151012,9.240680419645422,4 h
+Q96NL8,CF418_HUMAN,CFAP418,sp|Q96NL8|CF418_HUMAN,Cilia- and flagella-associated protein 418,207,Homo sapiens,1:Experimental evidence at protein level,0.9719,0.999,9.15859815936292,0.0,9.15859815936292,4 h
+P12235,ADT1_HUMAN,SLC25A4,sp|P12235|ADT1_HUMAN,ADP/ATP translocase 1,298,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.771890749592004,7.806643805127009,8.965246944464994,4 h
+Q8NHY6,ZFP28_HUMAN,ZFP28,sp|Q8NHY6|ZFP28_HUMAN,Zinc finger protein 28 homolog,868,Homo sapiens,1:Experimental evidence at protein level,0.997,0.9989,8.72574482050884,0.0,8.72574482050884,4 h
+Q9Y5X2,SNX8_HUMAN,SNX8,sp|Q9Y5X2|SNX8_HUMAN,Sorting nexin-8,465,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.52781201121569,0.0,8.52781201121569,4 h
+O00418,EF2K_HUMAN,EEF2K,sp|O00418|EF2K_HUMAN,Eukaryotic elongation factor 2 kinase,725,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.48828396352089,0.0,8.48828396352089,4 h
+Q96S99,PKHF1_HUMAN,PLEKHF1,sp|Q96S99|PKHF1_HUMAN,Pleckstrin homology domain-containing family F member 1,279,Homo sapiens,1:Experimental evidence at protein level,0.9719,0.999,16.04428150819556,7.639978334415565,8.404303173779995,4 h
+Q9H936,GHC1_HUMAN,SLC25A22,sp|Q9H936|GHC1_HUMAN,Mitochondrial glutamate carrier 1,323,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.343776316466792,0.0,8.343776316466792,4 h
+Q96BN2,TADA1_HUMAN,TADA1,sp|Q96BN2|TADA1_HUMAN,Transcriptional adapter 1,335,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.339728228793298,0.0,8.339728228793298,4 h
+O96006,ZBED1_HUMAN,ZBED1,sp|O96006|ZBED1_HUMAN,E3 SUMO-protein ligase ZBED1,694,Homo sapiens,1:Experimental evidence at protein level,0.9976,0.999,8.336507163863674,0.0,8.336507163863674,4 h
+Q9BUR4,TCAB1_HUMAN,WRAP53,sp|Q9BUR4|TCAB1_HUMAN,Telomerase Cajal body protein 1,548,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.294858997999782,0.0,8.294858997999782,4 h
+P16885,PLCG2_HUMAN,PLCG2,sp|P16885|PLCG2_HUMAN,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",1265,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.521352716049025,7.236758800545671,8.284593915503354,4 h
+P16083,NQO2_HUMAN,NQO2,sp|P16083|NQO2_HUMAN,Ribosyldihydronicotinamide dehydrogenase [quinone],231,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.24411542865087,0.0,8.24411542865087,4 h
+P12829,MYL4_HUMAN,MYL4,sp|P12829|MYL4_HUMAN,Myosin light chain 4,197,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.068708194778397,6.835872912326449,8.232835282451948,4 h
+O43181,NDUS4_HUMAN,NDUFS4,sp|O43181|NDUS4_HUMAN,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial",175,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.622055887945088,8.423241363025314,8.198814524919774,4 h
+P53803,RPAB4_HUMAN,POLR2K,sp|P53803|RPAB4_HUMAN,"DNA-directed RNA polymerases I, II, and III subunit RPABC4",58,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.196731764450872,0.0,8.196731764450872,4 h
+Q6P5R6,RL22L_HUMAN,RPL22L1,sp|Q6P5R6|RL22L_HUMAN,60S ribosomal protein L22-like 1,122,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.074327294747274,6.8849083349499685,8.189418959797305,4 h
+P34931,HS71L_HUMAN,HSPA1L,sp|P34931|HS71L_HUMAN,Heat shock 70 kDa protein 1-like,641,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.122031280396932,0.0,8.122031280396932,4 h
+O75817,POP7_HUMAN,POP7,sp|O75817|POP7_HUMAN,Ribonuclease P protein subunit p20,140,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.651539207931533,7.5408527254558,8.110686482475732,4 h
+Q08722,CD47_HUMAN,CD47,sp|Q08722|CD47_HUMAN,Leukocyte surface antigen CD47,323,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.080209313950567,0.0,8.080209313950567,4 h
+O14757,CHK1_HUMAN,CHEK1,sp|O14757|CHK1_HUMAN,Serine/threonine-protein kinase Chk1,476,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.078420171146467,7.004460262611762,8.073959908534706,4 h
+Q9Y673,ALG5_HUMAN,ALG5,sp|Q9Y673|ALG5_HUMAN,Dolichyl-phosphate beta-glucosyltransferase,324,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.738225249748982,7.691729014638151,8.046496235110832,4 h
+P63027,VAMP2_HUMAN,VAMP2,sp|P63027|VAMP2_HUMAN,Vesicle-associated membrane protein 2,116,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.036650819886706,0.0,8.036650819886706,4 h
+Q96B36,AKTS1_HUMAN,AKT1S1,sp|Q96B36|AKTS1_HUMAN,Proline-rich AKT1 substrate 1,256,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.022662694248636,0.0,8.022662694248636,4 h
+O75496,GEMI_HUMAN,GMNN,sp|O75496|GEMI_HUMAN,Geminin,209,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.015827299763291,0.0,8.015827299763291,4 h
+P60059,SC61G_HUMAN,SEC61G,sp|P60059|SC61G_HUMAN,Protein transport protein Sec61 subunit gamma,68,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,7.995416708378345,0.0,7.995416708378345,4 h
+Q8TEU7,RPGF6_HUMAN,RAPGEF6,sp|Q8TEU7|RPGF6_HUMAN,Rap guanine nucleotide exchange factor 6,1601,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.916232473655441,6.924592042907774,7.991640430747667,4 h
+O95714,HERC2_HUMAN,HERC2,sp|O95714|HERC2_HUMAN,E3 ubiquitin-protein ligase HERC2,4834,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,7.987469080948487,0.0,7.987469080948487,4 h
+P51965,UB2E1_HUMAN,UBE2E1,sp|P51965|UB2E1_HUMAN,Ubiquitin-conjugating enzyme E2 E1,193,Homo sapiens,1:Experimental evidence at protein level,0.987,0.999,7.978792775010996,0.0,7.978792775010996,4 h

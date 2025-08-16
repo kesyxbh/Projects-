@@ -1,0 +1,11 @@
+time,direction,library,Term,Adjusted P-value,Overlap,Genes_short,rank
+20 min,UP,GO_Biological_Process_2021,vascular associated smooth muscle contraction (GO:0014829),0.2558442664921113,2/8,ACTA2;PIK3C2A,1.0
+20 min,UP,GO_Biological_Process_2021,histone exchange (GO:0043486),0.2558442664921113,3/38,SPTY2D1;CENPP;CENPS,2.0
+20 min,UP,GO_Biological_Process_2021,vasoconstriction (GO:0042310),0.2558442664921113,2/11,ACTA2;PIK3C2A,3.0
+20 min,UP,GO_Biological_Process_2021,smooth muscle contraction (GO:0006939),0.2558442664921113,2/14,ACTA2;PIK3C2A,4.0
+20 min,UP,GO_Biological_Process_2021,ncRNA transcription (GO:0098781),0.2558442664921113,2/14,SPIN1;RPAP2,5.0
+20 min,UP,KEGG_2021_Human,Apelin signaling pathway,0.3779605900078827,4/137,MYL4;ACTA2;GNGT2;RPS6KB2,6.0
+20 min,UP,KEGG_2021_Human,mTOR signaling pathway,0.3779605900078827,4/154,AKT1S1;RPS6KB2;TBC1D7;LAMTOR3,7.0
+20 min,UP,KEGG_2021_Human,Longevity regulating pathway,0.4905966772279311,3/102,HSPA6;AKT1S1;RPS6KB2,8.0
+20 min,UP,KEGG_2021_Human,SNARE interactions in vesicular transport,0.6163800527886236,1/33,BET1L,9.0
+20 min,UP,KEGG_2021_Human,Insulin signaling pathway,0.6163800527886236,2/137,PRKCI;RPS6KB2,10.0

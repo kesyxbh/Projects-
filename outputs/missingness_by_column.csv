@@ -1,0 +1,15 @@
+column,missing_fraction
+PD1 reporter unstimulated,0.0
+PD-1 reporter TCS Ctrl 5min,0.0
+PD-1 reporter TCS Ctrl 20 min,0.0
+PD-1 reporter TCS Ctrl 4h,0.0
+PD-1 TCS  PDL1 5 min,0.0
+PD-1 TCS PDL1 20 min,0.0
+PD-1 TCS PDL1 4h,0.0
+Reporter Control unstimulated,0.0
+Reporter Control TCS Ctrl 5 min,0.0
+Reporter Control TCS Ctrl 20 min,0.0
+Reporter Control TCS Ctrl 4h,0.0
+Reporter Control TCS PD-L1 5 min,0.0
+Reporter Control TCS PD-L1 20 min,0.0
+Reporter Control TCS PD-L1 4h,0.0

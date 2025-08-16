@@ -1,0 +1,11 @@
+time,direction,library,Term,Adjusted P-value,Overlap,Genes_short,rank
+4 h,UP,GO_Biological_Process_2021,regulation of microtubule polymerization or depolymerization (GO:0031110),0.1291726883497172,3/28,ARL2;SKA3;SKA2,1.0
+4 h,UP,GO_Biological_Process_2021,positive regulation of calcium-mediated signaling (GO:0050850),0.1291726883497172,2/13,TRAT1;PLCG2,2.0
+4 h,UP,GO_Biological_Process_2021,chromatin organization involved in regulation of transcription (GO:0034401),0.1291726883497172,2/13,ZMIZ1;CHEK1,3.0
+4 h,UP,GO_Biological_Process_2021,negative regulation of nucleocytoplasmic transport (GO:0046823),0.1291726883497172,2/13,SP100;RAB23,4.0
+4 h,UP,GO_Biological_Process_2021,early endosome to Golgi transport (GO:0034498),0.1291726883497172,2/12,SNX8;STX10,5.0
+4 h,UP,KEGG_2021_Human,Inositol phosphate metabolism,0.5407742097348501,3/73,IMPA1;PLCG2;PIK3C2A,6.0
+4 h,UP,KEGG_2021_Human,Phosphatidylinositol signaling system,0.5407742097348501,3/97,IMPA1;PLCG2;PIK3C2A,7.0
+4 h,UP,KEGG_2021_Human,Longevity regulating pathway,0.5407742097348501,3/102,HSPA1L;AKT1S1;HSPA2,8.0
+4 h,UP,KEGG_2021_Human,AMPK signaling pathway,0.5407742097348501,3/120,PPP2CA;EEF2K;AKT1S1,9.0
+4 h,UP,KEGG_2021_Human,Vibrio cholerae infection,0.5407742097348501,2/50,SEC61G;PLCG2,10.0

@@ -1,0 +1,51 @@
+Protein ID,Entry Name,Gene,Protein,Protein name,Protein Length,Organism,Protein Existence,Protein Probability,Top Peptide Probability,PD1,CTRL,log2FC_PD1_vs_CTRL,time
+P32019,I5P2_HUMAN,INPP5B,sp|P32019|I5P2_HUMAN,"Type II inositol 1,4,5-trisphosphate 5-phosphatase",993,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,16.153305764007033,-16.153305764007033,5 min
+Q6P444,MTFR2_HUMAN,MTFR2,sp|Q6P444|MTFR2_HUMAN,Mitochondrial fission regulator 2,385,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.70507854175671,-15.70507854175671,5 min
+P50225,ST1A1_HUMAN,SULT1A1,sp|P50225|ST1A1_HUMAN,Sulfotransferase 1A1,295,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.676700573427594,-15.676700573427594,5 min
+P51817,PRKX_HUMAN,PRKX,sp|P51817|PRKX_HUMAN,cAMP-dependent protein kinase catalytic subunit PRKX,358,Homo sapiens,1:Experimental evidence at protein level,0.9998,0.999,0.0,15.651982988477641,-15.651982988477641,5 min
+Q7L273,KCTD9_HUMAN,KCTD9,sp|Q7L273|KCTD9_HUMAN,BTB/POZ domain-containing protein KCTD9,389,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.571596496801355,-15.571596496801355,5 min
+Q15223,NECT1_HUMAN,NECTIN1,sp|Q15223|NECT1_HUMAN,Nectin-1,517,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.505838531087088,-15.505838531087088,5 min
+Q8TB36,GDAP1_HUMAN,GDAP1,sp|Q8TB36|GDAP1_HUMAN,Ganglioside-induced differentiation-associated protein 1,358,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.33875069939138,-15.33875069939138,5 min
+O00189,AP4M1_HUMAN,AP4M1,sp|O00189|AP4M1_HUMAN,AP-4 complex subunit mu-1,453,Homo sapiens,1:Experimental evidence at protein level,0.9994,0.9984,0.0,15.312329391114732,-15.312329391114732,5 min
+O94830,DDHD2_HUMAN,DDHD2,sp|O94830|DDHD2_HUMAN,Phospholipase DDHD2,711,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.213809332760823,-15.213809332760823,5 min
+Q9NP92,RT30_HUMAN,MRPS30,sp|Q9NP92|RT30_HUMAN,"39S ribosomal protein S30, mitochondrial",439,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.211371054516167,-15.211371054516167,5 min
+Q53S33,BOLA3_HUMAN,BOLA3,sp|Q53S33|BOLA3_HUMAN,BolA-like protein 3,107,Homo sapiens,1:Experimental evidence at protein level,0.9999,0.999,0.0,15.195926881652312,-15.195926881652312,5 min
+Q9NQ50,RM40_HUMAN,MRPL40,sp|Q9NQ50|RM40_HUMAN,"39S ribosomal protein L40, mitochondrial",206,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.107891530066755,-15.107891530066755,5 min
+Q9NYV6,RRN3_HUMAN,RRN3,sp|Q9NYV6|RRN3_HUMAN,RNA polymerase I-specific transcription initiation factor RRN3,651,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.072856061917172,-15.072856061917172,5 min
+Q8IZ07,AN13A_HUMAN,ANKRD13A,sp|Q8IZ07|AN13A_HUMAN,Ankyrin repeat domain-containing protein 13A,590,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.030429032694784,-15.030429032694784,5 min
+O15121,DEGS1_HUMAN,DEGS1,sp|O15121|DEGS1_HUMAN,Sphingolipid delta(4)-desaturase DES1,323,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.002248177024866,-15.002248177024866,5 min
+Q9NUQ7,UFSP2_HUMAN,UFSP2,sp|Q9NUQ7|UFSP2_HUMAN,Ufm1-specific protease 2,469,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.952209085552397,-14.952209085552397,5 min
+Q86US8,EST1A_HUMAN,SMG6,sp|Q86US8|EST1A_HUMAN,Telomerase-binding protein EST1A,1419,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.947918260007093,-14.947918260007093,5 min
+Q9UBS0,KS6B2_HUMAN,RPS6KB2,sp|Q9UBS0|KS6B2_HUMAN,Ribosomal protein S6 kinase beta-2,482,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.929943847535874,-14.929943847535874,5 min
+P10253,LYAG_HUMAN,GAA,sp|P10253|LYAG_HUMAN,Lysosomal alpha-glucosidase,952,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.876428607459669,-14.876428607459669,5 min
+Q9BRJ7,TIRR_HUMAN,NUDT16L1,sp|Q9BRJ7|TIRR_HUMAN,Tudor-interacting repair regulator protein,211,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.818343632106323,-14.818343632106323,5 min
+P56385,ATP5I_HUMAN,ATP5ME,sp|P56385|ATP5I_HUMAN,"ATP synthase subunit e, mitochondrial",69,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.79407002359838,-14.79407002359838,5 min
+Q02241,KIF23_HUMAN,KIF23,sp|Q02241|KIF23_HUMAN,Kinesin-like protein KIF23,960,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.782415306066277,-14.782415306066277,5 min
+Q14764,MVP_HUMAN,MVP,sp|Q14764|MVP_HUMAN,Major vault protein,893,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.71920608801838,-14.71920608801838,5 min
+Q15527,SURF2_HUMAN,SURF2,sp|Q15527|SURF2_HUMAN,Surfeit locus protein 2,256,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.663842776600127,-14.663842776600127,5 min
+O43808,PM34_HUMAN,SLC25A17,sp|O43808|PM34_HUMAN,Peroxisomal membrane protein PMP34,307,Homo sapiens,1:Experimental evidence at protein level,0.9996,0.999,0.0,14.661785355057201,-14.661785355057201,5 min
+O95721,SNP29_HUMAN,SNAP29,sp|O95721|SNP29_HUMAN,Synaptosomal-associated protein 29,258,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.656578840116222,-14.656578840116222,5 min
+P83111,LACTB_HUMAN,LACTB,sp|P83111|LACTB_HUMAN,"Serine beta-lactamase-like protein LACTB, mitochondrial",547,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.643750545695273,-14.643750545695273,5 min
+O14880,MGST3_HUMAN,MGST3,sp|O14880|MGST3_HUMAN,Microsomal glutathione S-transferase 3,152,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.640274170747944,-14.640274170747944,5 min
+Q14676,MDC1_HUMAN,MDC1,sp|Q14676|MDC1_HUMAN,Mediator of DNA damage checkpoint protein 1,2089,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.632002693024965,-14.632002693024965,5 min
+O96033,MOC2A_HUMAN,MOCS2,sp|O96033|MOC2A_HUMAN,Molybdopterin synthase sulfur carrier subunit,88,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.608614452869217,-14.608614452869217,5 min
+Q9UKA4,AKA11_HUMAN,AKAP11,sp|Q9UKA4|AKA11_HUMAN,A-kinase anchor protein 11,1901,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.608029972771002,-14.608029972771002,5 min
+Q9NQE9,HINT3_HUMAN,HINT3,sp|Q9NQE9|HINT3_HUMAN,Adenosine 5'-monophosphoramidase HINT3,182,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.578136992728261,-14.578136992728261,5 min
+Q9NRK6,ABCBA_HUMAN,ABCB10,sp|Q9NRK6|ABCBA_HUMAN,"ATP-binding cassette sub-family B member 10, mitochondrial",738,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.572475183832573,-14.572475183832573,5 min
+Q14554,PDIA5_HUMAN,PDIA5,sp|Q14554|PDIA5_HUMAN,Protein disulfide-isomerase A5,519,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.553956173954491,-14.553956173954491,5 min
+O94953,KDM4B_HUMAN,KDM4B,sp|O94953|KDM4B_HUMAN,Lysine-specific demethylase 4B,1096,Homo sapiens,1:Experimental evidence at protein level,1.0,0.9989,0.0,14.533104924622837,-14.533104924622837,5 min
+Q9H6E4,CC134_HUMAN,CCDC134,sp|Q9H6E4|CC134_HUMAN,Coiled-coil domain-containing protein 134,229,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.521419142127115,-14.521419142127115,5 min
+P15814,IGLL1_HUMAN,IGLL1,sp|P15814|IGLL1_HUMAN,Immunoglobulin lambda-like polypeptide 1,213,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.520689655530134,-14.520689655530134,5 min
+Q9UKS6,PACN3_HUMAN,PACSIN3,sp|Q9UKS6|PACN3_HUMAN,Protein kinase C and casein kinase substrate in neurons protein 3,424,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.514870652245776,-14.514870652245776,5 min
+Q9BVS5,TR61B_HUMAN,TRMT61B,sp|Q9BVS5|TR61B_HUMAN,"tRNA (adenine(58)-N(1))-methyltransferase, mitochondrial",477,Homo sapiens,1:Experimental evidence at protein level,1.0,0.9985,0.0,14.491616774540972,-14.491616774540972,5 min
+Q8IXJ6,SIR2_HUMAN,SIRT2,sp|Q8IXJ6|SIR2_HUMAN,NAD-dependent protein deacetylase sirtuin-2,389,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.473537287640704,-14.473537287640704,5 min
+Q8TAD8,SNIP1_HUMAN,SNIP1,sp|Q8TAD8|SNIP1_HUMAN,Smad nuclear-interacting protein 1,396,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.470033404977979,-14.470033404977979,5 min
+Q8NHQ9,DDX55_HUMAN,DDX55,sp|Q8NHQ9|DDX55_HUMAN,ATP-dependent RNA helicase DDX55,600,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.448671758272889,-14.448671758272889,5 min
+Q9UK39,NOCT_HUMAN,NOCT,sp|Q9UK39|NOCT_HUMAN,Nocturnin,431,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.443483012852706,-14.443483012852706,5 min
+P57076,CF298_HUMAN,CFAP298,sp|P57076|CF298_HUMAN,Cilia- and flagella-associated protein 298,290,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.438850114627167,-14.438850114627167,5 min
+Q96AX1,VP33A_HUMAN,VPS33A,sp|Q96AX1|VP33A_HUMAN,Vacuolar protein sorting-associated protein 33A,596,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.400598523477548,-14.400598523477548,5 min
+Q8WWQ0,PHIP_HUMAN,PHIP,sp|Q8WWQ0|PHIP_HUMAN,PH-interacting protein,1821,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.389562702047732,-14.389562702047732,5 min
+Q8IUD2,RB6I2_HUMAN,ERC1,sp|Q8IUD2|RB6I2_HUMAN,ELKS/Rab6-interacting/CAST family member 1,1116,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.389177865023314,-14.389177865023314,5 min
+O14657,TOR1B_HUMAN,TOR1B,sp|O14657|TOR1B_HUMAN,Torsin-1B,336,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.381390057416297,-14.381390057416297,5 min
+Q7Z6I6,RHG30_HUMAN,ARHGAP30,sp|Q7Z6I6|RHG30_HUMAN,Rho GTPase-activating protein 30,1101,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,14.36811155527591,-14.36811155527591,5 min
+O14734,ACOT8_HUMAN,ACOT8,sp|O14734|ACOT8_HUMAN,Acyl-coenzyme A thioesterase 8,319,Homo sapiens,1:Experimental evidence at protein level,1.0,0.9989,0.0,14.367524327989878,-14.367524327989878,5 min

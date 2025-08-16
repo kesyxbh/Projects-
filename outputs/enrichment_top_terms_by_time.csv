@@ -1,0 +1,81 @@
+time,direction,library,Term,Adjusted P-value,Overlap,Genes_short,rank
+0 min,DOWN,GO_Biological_Process_2021,regulation of type I interferon production (GO:0032479),0.0650097293770611,5/89,HERC5;POLR3A;DHX33;CTNNB1;TRIM32,1.0
+0 min,DOWN,GO_Biological_Process_2021,endoplasmic reticulum to Golgi vesicle-mediated transport (GO:0006888),0.0931927443481073,6/185,ARF4;DYNC1LI2;COG4;MIA3;YKT6;BET1L,2.0
+0 min,DOWN,GO_Biological_Process_2021,mitotic spindle elongation (GO:0000022),0.0931927443481073,2/8,RACGAP1;PRC1,3.0
+0 min,DOWN,GO_Biological_Process_2021,mitotic spindle midzone assembly (GO:0051256),0.0931927443481073,2/8,RACGAP1;PRC1,4.0
+0 min,DOWN,GO_Biological_Process_2021,DNA replication-independent nucleosome assembly (GO:0006336),0.0931927443481073,3/39,CENPP;CENPC;ASF1B,5.0
+0 min,DOWN,KEGG_2021_Human,Terpenoid backbone biosynthesis,0.5544750575033697,2/22,FNTB;ZMPSTE24,6.0
+0 min,DOWN,KEGG_2021_Human,SNARE interactions in vesicular transport,0.5544750575033697,2/33,YKT6;BET1L,7.0
+0 min,DOWN,KEGG_2021_Human,Phosphatidylinositol signaling system,0.5544750575033697,3/97,INPP5B;PI4KA;CALML3,8.0
+0 min,DOWN,KEGG_2021_Human,Kaposi sarcoma-associated herpesvirus infection,0.5544750575033697,4/193,TRADD;CTNNB1;CALML3;JAK1,9.0
+0 min,DOWN,KEGG_2021_Human,Basal cell carcinoma,0.6299721272018025,1/63,CTNNB1,10.0
+0 min,UP,GO_Biological_Process_2021,protein transport (GO:0015031),0.0022924959127321,11/369,ARFRP1;TMED9;RAB5B;STX8;RAB23;RAB3D,1.0
+0 min,UP,KEGG_2021_Human,SNARE interactions in vesicular transport,0.0023689894512322,4/33,STX8;BNIP1;VAMP5;VAMP2,2.0
+0 min,UP,GO_Biological_Process_2021,regulation of tumor necrosis factor superfamily cytokine production (GO:1903555),0.0525786068832918,2/9,CD47;LTF,3.0
+0 min,UP,GO_Biological_Process_2021,"exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000467)",0.0525786068832918,2/9,ERI1;EXOSC3,4.0
+0 min,UP,GO_Biological_Process_2021,exonucleolytic trimming involved in rRNA processing (GO:0000459),0.0525786068832918,2/9,ERI1;EXOSC3,5.0
+0 min,UP,GO_Biological_Process_2021,establishment of protein localization to plasma membrane (GO:0061951),0.0525786068832918,3/36,ARFRP1;VAMP5;VAMP2,6.0
+0 min,UP,KEGG_2021_Human,Huntington disease,0.2406982842950887,6/306,TUBB8;PSMB6;NDUFS4;DCTN3;POLR2F;COX7A2,7.0
+0 min,UP,KEGG_2021_Human,Endocytosis,0.3194293836807074,5/252,RAB5B;CHMP1A;MVB12A;HSPA2;STAM2,8.0
+0 min,UP,KEGG_2021_Human,Prion disease,0.3305293101402504,5/273,TUBB8;PSMB6;NDUFS4;COX7A2;HSPA2,9.0
+0 min,UP,KEGG_2021_Human,Vasopressin-regulated water reabsorption,0.3633230482695111,2/44,RAB5B;VAMP2,10.0
+20 min,DOWN,GO_Biological_Process_2021,mitochondrial translation (GO:0032543),4.7783740115159805e-05,8/105,MRPL53;NOA1;MRPL16;GATC;MRPL28;MRPS21,1.0
+20 min,DOWN,GO_Biological_Process_2021,translational termination (GO:0006415),0.0002273553519694,7/96,N6AMT1;MRPL53;MRPL16;MRPS21;MRPL28;MRPL9,2.0
+20 min,DOWN,GO_Biological_Process_2021,translational elongation (GO:0006414),0.000261488970418,7/104,MRPL53;EEF1A2;MRPL16;MRPL28;MRPS21;MRPL9,3.0
+20 min,DOWN,GO_Biological_Process_2021,translation (GO:0006412),0.0002765785587952,9/214,N6AMT1;NOA1;EEF1A2;MRPL16;GATC;MRPL28,4.0
+20 min,DOWN,GO_Biological_Process_2021,mitochondrial translational elongation (GO:0070125),0.0008082942615684,6/89,MRPL53;MRPL16;MRPS21;MRPL28;MRPL9;MRPL24,5.0
+20 min,DOWN,KEGG_2021_Human,Homologous recombination,0.0778904117598061,3/41,TOP3B;XRCC3;RAD54B,6.0
+20 min,DOWN,KEGG_2021_Human,Ribosome,0.0778904117598061,5/158,MRPL16;MRPL28;MRPS21;MRPL9;MRPL24,7.0
+20 min,DOWN,KEGG_2021_Human,Cholesterol metabolism,0.0875375246872457,3/50,NPC1;APOA1;APOC3,8.0
+20 min,DOWN,KEGG_2021_Human,RNA transport,0.4655739277259773,4/186,EIF2B5;UPF2;NUP42;EEF1A2,9.0
+20 min,DOWN,KEGG_2021_Human,Leishmaniasis,0.6263174604390496,1/77,EEF1A2,10.0
+20 min,UP,GO_Biological_Process_2021,vascular associated smooth muscle contraction (GO:0014829),0.2558442664921113,2/8,ACTA2;PIK3C2A,1.0
+20 min,UP,GO_Biological_Process_2021,histone exchange (GO:0043486),0.2558442664921113,3/38,SPTY2D1;CENPP;CENPS,2.0
+20 min,UP,GO_Biological_Process_2021,vasoconstriction (GO:0042310),0.2558442664921113,2/11,ACTA2;PIK3C2A,3.0
+20 min,UP,GO_Biological_Process_2021,smooth muscle contraction (GO:0006939),0.2558442664921113,2/14,ACTA2;PIK3C2A,4.0
+20 min,UP,GO_Biological_Process_2021,ncRNA transcription (GO:0098781),0.2558442664921113,2/14,SPIN1;RPAP2,5.0
+20 min,UP,KEGG_2021_Human,Apelin signaling pathway,0.3779605900078827,4/137,MYL4;ACTA2;GNGT2;RPS6KB2,6.0
+20 min,UP,KEGG_2021_Human,mTOR signaling pathway,0.3779605900078827,4/154,AKT1S1;RPS6KB2;TBC1D7;LAMTOR3,7.0
+20 min,UP,KEGG_2021_Human,Longevity regulating pathway,0.4905966772279311,3/102,HSPA6;AKT1S1;RPS6KB2,8.0
+20 min,UP,KEGG_2021_Human,SNARE interactions in vesicular transport,0.6163800527886236,1/33,BET1L,9.0
+20 min,UP,KEGG_2021_Human,Insulin signaling pathway,0.6163800527886236,2/137,PRKCI;RPS6KB2,10.0
+4 h,DOWN,KEGG_2021_Human,Nicotinate and nicotinamide metabolism,0.0975267948185528,3/35,QPRT;NADSYN1;SIRT2,1.0
+4 h,DOWN,KEGG_2021_Human,Salmonella infection,0.1087490268926887,6/249,TRADD;VPS33A;CTNNB1;GCC2;EXOC2;PIK3CG,2.0
+4 h,DOWN,GO_Biological_Process_2021,inclusion body assembly (GO:0070841),0.1422592771772132,2/6,MAPT;HDAC6,3.0
+4 h,DOWN,GO_Biological_Process_2021,adherens junction organization (GO:0034332),0.1422592771772132,3/49,CTNNB1;NECTIN4;NECTIN1,4.0
+4 h,DOWN,GO_Biological_Process_2021,translational elongation (GO:0006414),0.1422592771772132,4/104,MRPS17;MRPS33;MRPL45;MRPL24,5.0
+4 h,DOWN,GO_Biological_Process_2021,Golgi to plasma membrane transport (GO:0006893),0.1422592771772132,3/48,GCC2;EXOC2;LLGL1,6.0
+4 h,DOWN,GO_Biological_Process_2021,translational termination (GO:0006415),0.1422592771772132,4/96,MRPS17;MRPS33;MRPL45;MRPL24,7.0
+4 h,DOWN,KEGG_2021_Human,Adherens junction,0.2493225956904661,3/71,CTNNB1;NECTIN4;NECTIN1,8.0
+4 h,DOWN,KEGG_2021_Human,mRNA surveillance pathway,0.3696500383355797,3/98,PABPC3;CASC3;SMG5,9.0
+4 h,DOWN,KEGG_2021_Human,RNA transport,0.3696500383355797,4/186,EIF2B5;NUP42;PABPC3;CASC3,10.0
+4 h,UP,GO_Biological_Process_2021,regulation of microtubule polymerization or depolymerization (GO:0031110),0.1291726883497172,3/28,ARL2;SKA3;SKA2,1.0
+4 h,UP,GO_Biological_Process_2021,positive regulation of calcium-mediated signaling (GO:0050850),0.1291726883497172,2/13,TRAT1;PLCG2,2.0
+4 h,UP,GO_Biological_Process_2021,chromatin organization involved in regulation of transcription (GO:0034401),0.1291726883497172,2/13,ZMIZ1;CHEK1,3.0
+4 h,UP,GO_Biological_Process_2021,negative regulation of nucleocytoplasmic transport (GO:0046823),0.1291726883497172,2/13,SP100;RAB23,4.0
+4 h,UP,GO_Biological_Process_2021,early endosome to Golgi transport (GO:0034498),0.1291726883497172,2/12,SNX8;STX10,5.0
+4 h,UP,KEGG_2021_Human,Inositol phosphate metabolism,0.5407742097348501,3/73,IMPA1;PLCG2;PIK3C2A,6.0
+4 h,UP,KEGG_2021_Human,Phosphatidylinositol signaling system,0.5407742097348501,3/97,IMPA1;PLCG2;PIK3C2A,7.0
+4 h,UP,KEGG_2021_Human,Longevity regulating pathway,0.5407742097348501,3/102,HSPA1L;AKT1S1;HSPA2,8.0
+4 h,UP,KEGG_2021_Human,AMPK signaling pathway,0.5407742097348501,3/120,PPP2CA;EEF2K;AKT1S1,9.0
+4 h,UP,KEGG_2021_Human,Vibrio cholerae infection,0.5407742097348501,2/50,SEC61G;PLCG2,10.0
+5 min,DOWN,GO_Biological_Process_2021,organelle fission (GO:0048285),0.1835154651528125,3/26,ACOT8;MTFR2;GDAP1,1.0
+5 min,DOWN,GO_Biological_Process_2021,peptidyl-lysine deacetylation (GO:0034983),0.1835154651528125,2/8,HDAC6;SIRT2,2.0
+5 min,DOWN,GO_Biological_Process_2021,histone H2A-K119 monoubiquitination (GO:0036353),0.1835154651528125,2/8,PCGF6;BMI1,3.0
+5 min,DOWN,GO_Biological_Process_2021,negative regulation of G0 to G1 transition (GO:0070317),0.1835154651528125,3/38,PCGF6;CHEK1;BMI1,4.0
+5 min,DOWN,GO_Biological_Process_2021,regulation of G0 to G1 transition (GO:0070316),0.1835154651528125,3/41,PCGF6;CHEK1;BMI1,5.0
+5 min,DOWN,KEGG_2021_Human,SNARE interactions in vesicular transport,0.6283888828220439,2/33,SNAP29;BET1,6.0
+5 min,DOWN,KEGG_2021_Human,Nicotinate and nicotinamide metabolism,0.6283888828220439,2/35,QPRT;SIRT2,7.0
+5 min,DOWN,KEGG_2021_Human,Human immunodeficiency virus 1 infection,0.6283888828220439,4/212,TRAF6;LIMK2;CHEK1;RPS6KB2,8.0
+5 min,DOWN,KEGG_2021_Human,Lysosome,0.6283888828220439,3/128,AP4M1;GAA;CTSW,9.0
+5 min,DOWN,KEGG_2021_Human,Autophagy,0.6283888828220439,3/137,TRAF6;RPS6KB2;SNAP29,10.0
+5 min,UP,GO_Biological_Process_2021,midbody abscission (GO:0061952),0.038255964156919,3/17,CHMP1A;CHMP2A;MITD1,1.0
+5 min,UP,GO_Biological_Process_2021,protein transport (GO:0015031),0.038255964156919,9/369,TMED9;HERC2;STX8;CHMP1A;SNX15;CHMP2A,2.0
+5 min,UP,GO_Biological_Process_2021,mitotic cytokinetic process (GO:1902410),0.038255964156919,3/20,CHMP1A;CHMP2A;MITD1,3.0
+5 min,UP,GO_Biological_Process_2021,positive regulation of protein autophosphorylation (GO:0031954),0.0432823943983372,3/23,RAP2C;RASSF2;NBN,4.0
+5 min,UP,GO_Biological_Process_2021,nuclear retention of pre-mRNA at the site of transcription (GO:0071033),0.0432823943983372,2/5,PRPF18;EXOSC3,5.0
+5 min,UP,KEGG_2021_Human,SNARE interactions in vesicular transport,0.0700223639855235,3/33,STX8;STX4;VAMP2,6.0
+5 min,UP,KEGG_2021_Human,Hematopoietic cell lineage,0.6627682888275269,1/99,CD5,7.0
+5 min,UP,KEGG_2021_Human,Inflammatory mediator regulation of TRP channels,0.6627682888275269,1/98,PRKCQ,8.0
+5 min,UP,KEGG_2021_Human,mRNA surveillance pathway,0.6627682888275269,1/98,PPP2CA,9.0
+5 min,UP,KEGG_2021_Human,Fc gamma R-mediated phagocytosis,0.6627682888275269,1/97,CRK,10.0

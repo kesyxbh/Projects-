@@ -1,0 +1,51 @@
+Protein ID,Entry Name,Gene,Protein,Protein name,Protein Length,Organism,Protein Existence,Protein Probability,Top Peptide Probability,PD1,CTRL,log2FC_PD1_vs_CTRL,time
+O60518,RNBP6_HUMAN,RANBP6,sp|O60518|RNBP6_HUMAN,Ran-binding protein 6,1105,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,16.733635431850985,-16.733635431850985,20 min
+Q9HB19,PKHA2_HUMAN,PLEKHA2,sp|Q9HB19|PKHA2_HUMAN,Pleckstrin homology domain-containing family A member 2,425,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,16.7297435501067,-16.7297435501067,20 min
+P27482,CALL3_HUMAN,CALML3,sp|P27482|CALL3_HUMAN,Calmodulin-like protein 3,149,Homo sapiens,1:Experimental evidence at protein level,1.0,0.9988,0.0,16.677411846354264,-16.677411846354264,20 min
+O43181,NDUS4_HUMAN,NDUFS4,sp|O43181|NDUS4_HUMAN,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial",175,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,16.645571896967333,-16.645571896967333,20 min
+Q14671,PUM1_HUMAN,PUM1,sp|Q14671|PUM1_HUMAN,Pumilio homolog 1,1186,Homo sapiens,1:Experimental evidence at protein level,0.9996,0.9986,0.0,16.48322949180409,-16.48322949180409,20 min
+Q8WTW3,COG1_HUMAN,COG1,sp|Q8WTW3|COG1_HUMAN,Conserved oligomeric Golgi complex subunit 1,980,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,16.335539810518156,-16.335539810518156,20 min
+Q8IYU8,MICU2_HUMAN,MICU2,sp|Q8IYU8|MICU2_HUMAN,"Calcium uptake protein 2, mitochondrial",434,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,16.116578247502197,-16.116578247502197,20 min
+Q8TB36,GDAP1_HUMAN,GDAP1,sp|Q8TB36|GDAP1_HUMAN,Ganglioside-induced differentiation-associated protein 1,358,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.98895838071861,-15.98895838071861,20 min
+P00846,ATP6_HUMAN,MT-ATP6,sp|P00846|ATP6_HUMAN,ATP synthase subunit a,226,Homo sapiens,1:Experimental evidence at protein level,0.9319,0.999,0.0,15.98438746856909,-15.98438746856909,20 min
+Q9Y5U9,IR3IP_HUMAN,IER3IP1,sp|Q9Y5U9|IR3IP_HUMAN,Immediate early response 3-interacting protein 1,82,Homo sapiens,1:Experimental evidence at protein level,0.9965,0.999,0.0,15.95994458009579,-15.95994458009579,20 min
+P00395,COX1_HUMAN,MT-CO1,sp|P00395|COX1_HUMAN,Cytochrome c oxidase subunit 1,513,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.945485363509073,-15.945485363509073,20 min
+O00483,NDUA4_HUMAN,NDUFA4,sp|O00483|NDUA4_HUMAN,Cytochrome c oxidase subunit NDUFA4,81,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.935184971096051,-15.935184971096051,20 min
+Q9H4I3,TRABD_HUMAN,TRABD,sp|Q9H4I3|TRABD_HUMAN,TraB domain-containing protein,376,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.885639759327425,-15.885639759327425,20 min
+O60293,ZC3H1_HUMAN,ZFC3H1,sp|O60293|ZC3H1_HUMAN,Zinc finger C3H1 domain-containing protein,1989,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.804384583425444,-15.804384583425444,20 min
+Q15714,T22D1_HUMAN,TSC22D1,sp|Q15714|T22D1_HUMAN,TSC22 domain family protein 1,1073,Homo sapiens,1:Experimental evidence at protein level,0.9943,0.9978,0.0,15.775456272779632,-15.775456272779632,20 min
+Q8IV50,LYSM2_HUMAN,LYSMD2,sp|Q8IV50|LYSM2_HUMAN,LysM and putative peptidoglycan-binding domain-containing protein 2,215,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.731665474395722,-15.731665474395722,20 min
+Q9GZR5,ELOV4_HUMAN,ELOVL4,sp|Q9GZR5|ELOV4_HUMAN,Elongation of very long chain fatty acids protein 4,314,Homo sapiens,1:Experimental evidence at protein level,0.9719,0.999,0.0,15.684863166064074,-15.684863166064074,20 min
+Q9Y620,RA54B_HUMAN,RAD54B,sp|Q9Y620|RA54B_HUMAN,DNA repair and recombination protein RAD54B,910,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.679659386090753,-15.679659386090753,20 min
+Q6UB99,ANR11_HUMAN,ANKRD11,sp|Q6UB99|ANR11_HUMAN,Ankyrin repeat domain-containing protein 11,2663,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.581497054909372,-15.581497054909372,20 min
+Q9UGP8,SEC63_HUMAN,SEC63,sp|Q9UGP8|SEC63_HUMAN,Translocation protein SEC63 homolog,760,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.572361560756645,-15.572361560756645,20 min
+Q969X0,RIPL2_HUMAN,RILPL2,sp|Q969X0|RIPL2_HUMAN,RILP-like protein 2,211,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.542988462635913,-15.542988462635913,20 min
+Q71DI3,H32_HUMAN,H3C13,sp|Q71DI3|H32_HUMAN,Histone H3.2,136,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.534641697631315,-15.534641697631315,20 min
+Q8N3D4,EH1L1_HUMAN,EHBP1L1,sp|Q8N3D4|EH1L1_HUMAN,EH domain-binding protein 1-like protein 1,1523,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.484201214664433,-15.484201214664433,20 min
+O15037,KHNYN_HUMAN,KHNYN,sp|O15037|KHNYN_HUMAN,Protein KHNYN,678,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.466664969901036,-15.466664969901036,20 min
+P02647,APOA1_HUMAN,APOA1,sp|P02647|APOA1_HUMAN,Apolipoprotein A-I,267,Homo sapiens,1:Experimental evidence at protein level,0.9986,0.999,0.0,15.455910704980024,-15.455910704980024,20 min
+O75506,HSBP1_HUMAN,HSBP1,sp|O75506|HSBP1_HUMAN,Heat shock factor-binding protein 1,76,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.415495683567308,-15.415495683567308,20 min
+Q9Y5N6,ORC6_HUMAN,ORC6,sp|Q9Y5N6|ORC6_HUMAN,Origin recognition complex subunit 6,252,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.379935361211013,-15.379935361211013,20 min
+Q96A35,RM24_HUMAN,MRPL24,sp|Q96A35|RM24_HUMAN,"39S ribosomal protein L24, mitochondrial",216,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.356708318848398,-15.356708318848398,20 min
+Q9Y5X1,SNX9_HUMAN,SNX9,sp|Q9Y5X1|SNX9_HUMAN,Sorting nexin-9,595,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.35027937183432,-15.35027937183432,20 min
+Q9BVQ7,SPA5L_HUMAN,SPATA5L1,sp|Q9BVQ7|SPA5L_HUMAN,Ribosome biogenesis protein SPATA5L1,753,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.348767979354992,-15.348767979354992,20 min
+Q13084,RM28_HUMAN,MRPL28,sp|Q13084|RM28_HUMAN,"39S ribosomal protein L28, mitochondrial",256,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.31639705553117,-15.31639705553117,20 min
+Q15527,SURF2_HUMAN,SURF2,sp|Q15527|SURF2_HUMAN,Surfeit locus protein 2,256,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.315900624485018,-15.315900624485018,20 min
+P00734,THRB_HUMAN,F2,sp|P00734|THRB_HUMAN,Prothrombin,622,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.315371084077665,-15.315371084077665,20 min
+Q05639,EF1A2_HUMAN,EEF1A2,sp|Q05639|EF1A2_HUMAN,Elongation factor 1-alpha 2,463,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.288208197851734,-15.288208197851734,20 min
+Q86XL3,ANKL2_HUMAN,ANKLE2,sp|Q86XL3|ANKL2_HUMAN,Ankyrin repeat and LEM domain-containing protein 2,938,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.282620937718779,-15.282620937718779,20 min
+Q9NPA3,M1IP1_HUMAN,MID1IP1,sp|Q9NPA3|M1IP1_HUMAN,Mid1-interacting protein 1,183,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.266214275142001,-15.266214275142001,20 min
+P02656,APOC3_HUMAN,APOC3,sp|P02656|APOC3_HUMAN,Apolipoprotein C-III,99,Homo sapiens,1:Experimental evidence at protein level,0.9319,0.999,0.0,15.243744955157933,-15.243744955157933,20 min
+O60281,ZN292_HUMAN,ZNF292,sp|O60281|ZN292_HUMAN,Zinc finger protein 292,2723,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.240220370718745,-15.240220370718745,20 min
+O43716,GATC_HUMAN,GATC,sp|O43716|GATC_HUMAN,"Glutamyl-tRNA(Gln) amidotransferase subunit C, mitochondrial",136,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.228109512678301,-15.228109512678301,20 min
+P54198,HIRA_HUMAN,HIRA,sp|P54198|HIRA_HUMAN,Protein HIRA,1017,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.221743298997087,-15.221743298997087,20 min
+Q8NBM4,UBAC2_HUMAN,UBAC2,sp|Q8NBM4|UBAC2_HUMAN,Ubiquitin-associated domain-containing protein 2,344,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.207382832979448,-15.207382832979448,20 min
+Q9C0E2,XPO4_HUMAN,XPO4,sp|Q9C0E2|XPO4_HUMAN,Exportin-4,1151,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.196293912444627,-15.196293912444627,20 min
+Q8NC60,NOA1_HUMAN,NOA1,sp|Q8NC60|NOA1_HUMAN,Nitric oxide-associated protein 1,698,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.157895421800246,-15.157895421800246,20 min
+Q92625,ANS1A_HUMAN,ANKS1A,sp|Q92625|ANS1A_HUMAN,Ankyrin repeat and SAM domain-containing protein 1A,1134,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.149930871195041,-15.149930871195041,20 min
+O75427,LRCH4_HUMAN,LRCH4,sp|O75427|LRCH4_HUMAN,Leucine-rich repeat and calponin homology domain-containing protein 4,683,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.124356564231793,-15.124356564231793,20 min
+Q9Y664,KPTN_HUMAN,KPTN,sp|Q9Y664|KPTN_HUMAN,KICSTOR complex protein kaptin,436,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.11986377786153,-15.11986377786153,20 min
+O75976,CBPD_HUMAN,CPD,sp|O75976|CBPD_HUMAN,Carboxypeptidase D,1380,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.108284059537544,-15.108284059537544,20 min
+Q9Y2W6,TDRKH_HUMAN,TDRKH,sp|Q9Y2W6|TDRKH_HUMAN,Tudor and KH domain-containing protein,561,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.061373352944194,-15.061373352944194,20 min
+Q9BQ95,ECSIT_HUMAN,ECSIT,sp|Q9BQ95|ECSIT_HUMAN,"Evolutionarily conserved signaling intermediate in Toll pathway, mitochondrial",431,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.058895916367192,-15.058895916367192,20 min
+Q9BRJ7,TIRR_HUMAN,NUDT16L1,sp|Q9BRJ7|TIRR_HUMAN,Tudor-interacting repair regulator protein,211,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,0.0,15.047199685814624,-15.047199685814624,20 min

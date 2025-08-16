@@ -1,0 +1,8 @@
+{
+  "mode": "aggregated",
+  "id_col": "Protein ID",
+  "prot_path": "data\\tp reordered (1).xlsx",
+  "meta_path": "data\\meta_data (1).csv",
+  "n_columns": 122,
+  "n_rows": 6270
+}

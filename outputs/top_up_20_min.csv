@@ -1,0 +1,51 @@
+Protein ID,Entry Name,Gene,Protein,Protein name,Protein Length,Organism,Protein Existence,Protein Probability,Top Peptide Probability,PD1,CTRL,log2FC_PD1_vs_CTRL,time
+Q15116,PDCD1_HUMAN,PDCD1,sp|Q15116|PDCD1_HUMAN,Programmed cell death protein 1,288,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.932794504245372,0.0,16.932794504245372,20 min
+Q9H936,GHC1_HUMAN,SLC25A22,sp|Q9H936|GHC1_HUMAN,Mitochondrial glutamate carrier 1,323,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.430903369721204,0.0,16.430903369721204,20 min
+O75496,GEMI_HUMAN,GMNN,sp|O75496|GEMI_HUMAN,Geminin,209,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.236013874372723,0.0,16.236013874372723,20 min
+Q15056,IF4H_HUMAN,EIF4H,sp|Q15056|IF4H_HUMAN,Eukaryotic translation initiation factor 4H,248,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.870380922272066,0.0,15.870380922272066,20 min
+Q53S33,BOLA3_HUMAN,BOLA3,sp|Q53S33|BOLA3_HUMAN,BolA-like protein 3,107,Homo sapiens,1:Experimental evidence at protein level,0.9999,0.999,15.612679615217896,0.0,15.612679615217896,20 min
+Q9P0N9,TBCD7_HUMAN,TBC1D7,sp|Q9P0N9|TBCD7_HUMAN,TBC1 domain family member 7,293,Homo sapiens,1:Experimental evidence at protein level,0.9999,0.999,15.503846239050318,0.0,15.503846239050318,20 min
+Q9UBS0,KS6B2_HUMAN,RPS6KB2,sp|Q9UBS0|KS6B2_HUMAN,Ribosomal protein S6 kinase beta-2,482,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.257583631918227,0.0,15.257583631918227,20 min
+Q5PRF9,SMAG2_HUMAN,SAMD4B,sp|Q5PRF9|SMAG2_HUMAN,Protein Smaug homolog 2,694,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.245939377975185,0.0,15.245939377975185,20 min
+Q9Y6W5,WASF2_HUMAN,WASF2,sp|Q9Y6W5|WASF2_HUMAN,Actin-binding protein WASF2,498,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.229405777911385,0.0,15.229405777911385,20 min
+Q00266,METK1_HUMAN,MAT1A,sp|Q00266|METK1_HUMAN,S-adenosylmethionine synthase isoform type-1,395,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.132817556446064,0.0,15.132817556446064,20 min
+P13051,UNG_HUMAN,UNG,sp|P13051|UNG_HUMAN,Uracil-DNA glycosylase,313,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.961893412592698,0.0,14.961893412592698,20 min
+O43903,GAS2_HUMAN,GAS2,sp|O43903|GAS2_HUMAN,Growth arrest-specific protein 2,313,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.813803423679849,0.0,14.813803423679849,20 min
+Q8N2Z9,CENPS_HUMAN,CENPS,sp|Q8N2Z9|CENPS_HUMAN,Centromere protein S,138,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.752824727555264,0.0,14.752824727555264,20 min
+Q9BVI0,PHF20_HUMAN,PHF20,sp|Q9BVI0|PHF20_HUMAN,PHD finger protein 20,1012,Homo sapiens,1:Experimental evidence at protein level,0.9958,0.9983,14.625644463219652,0.0,14.625644463219652,20 min
+Q9Y657,SPIN1_HUMAN,SPIN1,sp|Q9Y657|SPIN1_HUMAN,Spindlin-1,262,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.554892315829614,0.0,14.554892315829614,20 min
+P40818,UBP8_HUMAN,USP8,sp|P40818|UBP8_HUMAN,Ubiquitin carboxyl-terminal hydrolase 8,1118,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.509694820549846,0.0,14.509694820549846,20 min
+Q8N5W9,RFLB_HUMAN,RFLNB,sp|Q8N5W9|RFLB_HUMAN,Refilin-B,214,Homo sapiens,1:Experimental evidence at protein level,0.9998,0.999,14.478491707193914,0.0,14.478491707193914,20 min
+A4D1P6,WDR91_HUMAN,WDR91,sp|A4D1P6|WDR91_HUMAN,WD repeat-containing protein 91,747,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.426715886441855,0.0,14.426715886441855,20 min
+Q9Y624,JAM1_HUMAN,F11R,sp|Q9Y624|JAM1_HUMAN,Junctional adhesion molecule A,299,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.362613623930265,0.0,14.362613623930265,20 min
+P62736,ACTA_HUMAN,ACTA2,sp|P62736|ACTA_HUMAN,"Actin, aortic smooth muscle",377,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.316197878255089,0.0,14.316197878255089,20 min
+O00268,TAF4_HUMAN,TAF4,sp|O00268|TAF4_HUMAN,Transcription initiation factor TFIID subunit 4,1085,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,14.096642677919105,0.0,14.096642677919105,20 min
+Q9BSF4,TIM29_HUMAN,TIMM29,sp|Q9BSF4|TIM29_HUMAN,Mitochondrial import inner membrane translocase subunit Tim29,260,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,13.759589808913033,0.0,13.759589808913033,20 min
+Q9H7L9,SDS3_HUMAN,SUDS3,sp|Q9H7L9|SDS3_HUMAN,Sin3 histone deacetylase corepressor complex component SDS3,328,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,13.597346211155703,0.0,13.597346211155703,20 min
+Q6IC98,GRAM4_HUMAN,GRAMD4,sp|Q6IC98|GRAM4_HUMAN,GRAM domain-containing protein 4,578,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,13.388410468552962,0.0,13.388410468552962,20 min
+Q9H1E3,NUCKS_HUMAN,NUCKS1,sp|Q9H1E3|NUCKS_HUMAN,Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1,243,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,13.348806078559731,0.0,13.348806078559731,20 min
+Q9H0N5,PHS2_HUMAN,PCBD2,sp|Q9H0N5|PHS2_HUMAN,Pterin-4-alpha-carbinolamine dehydratase 2,130,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,9.582700834320244,0.0,9.582700834320244,20 min
+Q8NHY6,ZFP28_HUMAN,ZFP28,sp|Q8NHY6|ZFP28_HUMAN,Zinc finger protein 28 homolog,868,Homo sapiens,1:Experimental evidence at protein level,0.997,0.9989,9.081766171107573,0.0,9.081766171107573,20 min
+P22415,USF1_HUMAN,USF1,sp|P22415|USF1_HUMAN,Upstream stimulatory factor 1,310,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.117492023265154,7.172051883491938,8.945440139773215,20 min
+Q93033,IGSF2_HUMAN,CD101,sp|Q93033|IGSF2_HUMAN,Immunoglobulin superfamily member 2,1021,Homo sapiens,1:Experimental evidence at protein level,0.9866,0.9979,8.607971463656256,0.0,8.607971463656256,20 min
+Q8IYD1,ERF3B_HUMAN,GSPT2,sp|Q8IYD1|ERF3B_HUMAN,Eukaryotic peptide chain release factor GTP-binding subunit ERF3B,628,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.596186288327551,0.0,8.596186288327551,20 min
+Q96BK5,PINX1_HUMAN,PINX1,sp|Q96BK5|PINX1_HUMAN,PIN2/TERF1-interacting telomerase inhibitor 1,328,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,16.19737706675547,7.65157221764318,8.545804849112292,20 min
+Q9P2Y5,UVRAG_HUMAN,UVRAG,sp|Q9P2Y5|UVRAG_HUMAN,UV radiation resistance-associated gene protein,699,Homo sapiens,1:Experimental evidence at protein level,1.0,0.9988,8.442304027968746,0.0,8.442304027968746,20 min
+Q9BWH2,FUND2_HUMAN,FUNDC2,sp|Q9BWH2|FUND2_HUMAN,FUN14 domain-containing protein 2,189,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.98671602876334,7.552506955446011,8.434209073317328,20 min
+O96006,ZBED1_HUMAN,ZBED1,sp|O96006|ZBED1_HUMAN,E3 SUMO-protein ligase ZBED1,694,Homo sapiens,1:Experimental evidence at protein level,0.9976,0.999,8.327575692234685,0.0,8.327575692234685,20 min
+Q9NSY1,BMP2K_HUMAN,BMP2K,sp|Q9NSY1|BMP2K_HUMAN,BMP-2-inducible protein kinase,1161,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.166887711717955,6.872701397672206,8.29418631404575,20 min
+P17066,HSP76_HUMAN,HSPA6,sp|P17066|HSP76_HUMAN,Heat shock 70 kDa protein 6,643,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.939645162254052,7.65792574397981,8.281719418274243,20 min
+O75817,POP7_HUMAN,POP7,sp|O75817|POP7_HUMAN,Ribonuclease P protein subunit p20,140,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.522860884044308,7.308676908794981,8.214183975249327,20 min
+P29218,IMPA1_HUMAN,IMPA1,sp|P29218|IMPA1_HUMAN,Inositol monophosphatase 1,277,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.204577609615988,0.0,8.204577609615988,20 min
+Q96B36,AKTS1_HUMAN,AKT1S1,sp|Q96B36|AKTS1_HUMAN,Proline-rich AKT1 substrate 1,256,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.184751389386122,0.0,8.184751389386122,20 min
+Q6IPU0,CENPP_HUMAN,CENPP,sp|Q6IPU0|CENPP_HUMAN,Centromere protein P,288,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.073346323523733,0.0,8.073346323523733,20 min
+O00488,ZN593_HUMAN,ZNF593,sp|O00488|ZN593_HUMAN,Zinc finger protein 593,134,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,8.043913578481442,0.0,8.043913578481442,20 min
+Q6P1R4,DUS1L_HUMAN,DUS1L,sp|Q6P1R4|DUS1L_HUMAN,tRNA-dihydrouridine(16/17) synthase [NAD(P)(+)]-like,473,Homo sapiens,1:Experimental evidence at protein level,0.9905,0.999,8.01080557672313,0.0,8.01080557672313,20 min
+P53803,RPAB4_HUMAN,POLR2K,sp|P53803|RPAB4_HUMAN,"DNA-directed RNA polymerases I, II, and III subunit RPABC4",58,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,7.989371650031159,0.0,7.989371650031159,20 min
+Q9H1I8,ASCC2_HUMAN,ASCC2,sp|Q9H1I8|ASCC2_HUMAN,Activating signal cointegrator 1 complex subunit 2,757,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,7.982492089302726,0.0,7.982492089302726,20 min
+Q7L273,KCTD9_HUMAN,KCTD9,sp|Q7L273|KCTD9_HUMAN,BTB/POZ domain-containing protein KCTD9,389,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,7.980738752178076,0.0,7.980738752178076,20 min
+P11117,PPAL_HUMAN,ACP2,sp|P11117|PPAL_HUMAN,Lysosomal acid phosphatase,423,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,7.932180792565178,0.0,7.932180792565178,20 min
+Q96T58,MINT_HUMAN,SPEN,sp|Q96T58|MINT_HUMAN,Msx2-interacting protein,3664,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.715916831375196,7.790966580806972,7.924950250568224,20 min
+O94919,ENDD1_HUMAN,ENDOD1,sp|O94919|ENDD1_HUMAN,Endonuclease domain-containing 1 protein,500,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,15.395335640053354,7.525249254482907,7.870086385570446,20 min
+Q9NVM6,DJC17_HUMAN,DNAJC17,sp|Q9NVM6|DJC17_HUMAN,DnaJ homolog subfamily C member 17,304,Homo sapiens,1:Experimental evidence at protein level,1.0,0.999,7.851970706710429,0.0,7.851970706710429,20 min
+Q09666,AHNK_HUMAN,AHNAK,sp|Q09666|AHNK_HUMAN,Neuroblast differentiation-associated protein AHNAK,5890,Homo sapiens,1:Experimental evidence at protein level,1.0,0.9988,16.550083749708328,8.703904817940115,7.846178931768213,20 min

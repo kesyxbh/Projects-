@@ -1,0 +1,11 @@
+time,direction,library,Term,Adjusted P-value,Overlap,Genes_short,rank
+0 min,UP,GO_Biological_Process_2021,protein transport (GO:0015031),0.0022924959127321,11/369,ARFRP1;TMED9;RAB5B;STX8;RAB23;RAB3D,1.0
+0 min,UP,KEGG_2021_Human,SNARE interactions in vesicular transport,0.0023689894512322,4/33,STX8;BNIP1;VAMP5;VAMP2,2.0
+0 min,UP,GO_Biological_Process_2021,regulation of tumor necrosis factor superfamily cytokine production (GO:1903555),0.0525786068832918,2/9,CD47;LTF,3.0
+0 min,UP,GO_Biological_Process_2021,"exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000467)",0.0525786068832918,2/9,ERI1;EXOSC3,4.0
+0 min,UP,GO_Biological_Process_2021,exonucleolytic trimming involved in rRNA processing (GO:0000459),0.0525786068832918,2/9,ERI1;EXOSC3,5.0
+0 min,UP,GO_Biological_Process_2021,establishment of protein localization to plasma membrane (GO:0061951),0.0525786068832918,3/36,ARFRP1;VAMP5;VAMP2,6.0
+0 min,UP,KEGG_2021_Human,Huntington disease,0.2406982842950887,6/306,TUBB8;PSMB6;NDUFS4;DCTN3;POLR2F;COX7A2,7.0
+0 min,UP,KEGG_2021_Human,Endocytosis,0.3194293836807074,5/252,RAB5B;CHMP1A;MVB12A;HSPA2;STAM2,8.0
+0 min,UP,KEGG_2021_Human,Prion disease,0.3305293101402504,5/273,TUBB8;PSMB6;NDUFS4;COX7A2;HSPA2,9.0
+0 min,UP,KEGG_2021_Human,Vasopressin-regulated water reabsorption,0.3633230482695111,2/44,RAB5B;VAMP2,10.0
